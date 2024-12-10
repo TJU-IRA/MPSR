@@ -15,5 +15,5 @@ MPSR is a Multi-scale Perception Network for Infrared Image Super-Resolution tha
 ## Test
 ### Quick start
 1.Clone this repository:  
-git clone https://github.com/TJU-IRA/MPSR.git
+git clone https://github.com/TJU-IRA/MPSR.git  
 2.Download our pre-trained models from the links below, unzip the models and place them to ./models.  
