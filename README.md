@@ -39,7 +39,12 @@ git clone https://github.com/TJU-IRA/MPSR.git
 </tbody>
 </table>
 3.Then, cd to <td bgcolor=gray>MPSR</td> and run  following commands for evaluation on IRAB-T:  
-<td bgcolor=gray>python test.py -opt options/test/test.yml</td></tr></table>
-4.Finally, you can find the reconstruction images in <td bgcolor=gray>./results</td></tr></table>.
+>python test.py -opt options/test/test.yml  
+4.Finally, you can find the reconstruction images in <td bgcolor=gray>./results .  
+### Result
+  
+### TODO
+Curriculum learning for complex degradation models (i.e. BD and DN degradation models).
+
  
 
