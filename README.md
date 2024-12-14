@@ -43,7 +43,7 @@ git clone https://github.com/TJU-IRA/MPSR.git
 4.Finally, you can find the reconstruction images in <td bgcolor=gray>./results .  
 
 ### Result
-![alt text]([http://example.com/image.png](https://github.com/TJU-IRA/MPSR/blob/main/Figs/Qualitative%20comparison.png))``
+![alt text](https://github.com/TJU-IRA/MPSR/blob/main/Figs/Qualitative%20comparison.png)``
 ### TODO
 Curriculum learning for complex degradation models (i.e. BD and DN degradation models).
 
