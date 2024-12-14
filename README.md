@@ -16,7 +16,7 @@ MPSR is a Multi-scale Perception Network for Infrared Image Super-Resolution tha
 ### Quick start
 1.Clone this repository:  
 git clone https://github.com/TJU-IRA/MPSR.git  
-2.Download our pre-trained models from the links below, unzip the models and place them to <table><tr><td bgcolor=gray>./models. </td></tr></table> 
+2.Download our pre-trained models from the links below, unzip the models and place them to <td bgcolor=gray>./models. </td>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -45,7 +45,7 @@ git clone https://github.com/TJU-IRA/MPSR.git
   </tr>
 </tbody>
 </table>
-3.Then, cd to <table><tr><td bgcolor=gray>MPSR</td></tr></table> and run  following commands for evaluation on IRAB-T: 
+3.Then, cd to <td bgcolor=gray>MPSR</td> and run  following commands for evaluation on IRAB-T: 
 <table><tr><td bgcolor=gray>python test.py -opt options/test/test.yml</td></tr></table>
 4.Finally, you can find the reconstruction images in <table><tr><td bgcolor=gray>./results</td></tr></table>.
  
