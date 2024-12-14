@@ -26,15 +26,15 @@ git clone https://github.com/TJU-IRA/MPSR.git
 <tbody>
   <tr>
     <td class="tg-c3ow">x2</td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/14F1UzIVkwZDt6k1NpJxd0vgsJ7hc9Np5/view?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">x4</td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/12FFQR89ITMrA9oEfvJHukFJz7FB_gx3n/view?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">x8</td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/15aG4yFjRaFQx5fFx-wmOqUMNivGx5PrY/view?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1jq6xowAfEymklsMCwllfrJ26723_yBcR?usp=sharing" target="_blank" rel="noopener noreferrer">[GoogleDrive]</a></td>
   </tr>
 </tbody>
 </table>
