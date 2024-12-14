@@ -46,7 +46,7 @@ git clone https://github.com/TJU-IRA/MPSR.git
 </tbody>
 </table>
 3.Then, cd to <td bgcolor=gray>MPSR</td> and run  following commands for evaluation on IRAB-T: 
-<table><tr><td bgcolor=gray>python test.py -opt options/test/test.yml</td></tr></table>
-4.Finally, you can find the reconstruction images in <table><tr><td bgcolor=gray>./results</td></tr></table>.
+<td bgcolor=gray>python test.py -opt options/test/test.yml</td></tr></table>
+4.Finally, you can find the reconstruction images in <td bgcolor=gray>./results</td></tr></table>.
  
 
