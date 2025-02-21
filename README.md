@@ -1,5 +1,5 @@
 # MPSR
-MPSR is a Multi-scale Perception Network for Infrared Image Super-Resolution that has been submitted to T-CSVT. The code will be made public after the acceptance of the paper.
+MPSR is a Multi-scale Perception Network for Infrared Image Super-Resolution. The code will be made public after the acceptance of the paper.
 ## Requirements
 1.Python 3.10  
 
