@@ -44,7 +44,7 @@ python test.py -opt options/test/test.yml
 4.Finally, you can find the reconstruction images in <td bgcolor=gray>./results .  
 
 ### Results
-![alt text](https://github.com/TJU-IRA/MPSR/blob/main/Fig/Qualitative_comparison.png)
+![alt text](https://github.com/TJU-IRA/MPSR/blob/main/Fig/Qualitative.png)
 ### TODO
 Curriculum learning for complex degradation models (i.e. BD and DN degradation models).
 
